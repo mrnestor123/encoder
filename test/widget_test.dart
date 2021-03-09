@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_bluetooth/main3.dart';
+import 'package:flutter_bluetooth/presentation/main3.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
